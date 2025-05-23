@@ -1,0 +1,1935 @@
+fileFormatVersion: 2
+guid: 66296a91f0bb544c0a599f9ff7a30fc9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: number coloue 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3895
+        width: 640
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8231a1354c415c865b06f43518982
+      internalID: 1468112032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_1
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3895
+        width: 646
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335ac15b24ec423396384b1484d6011
+      internalID: 477703500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_2
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3895
+        width: 642
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ef9ce17d7940668cc7e4833cbb8e1
+      internalID: -1171544938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_3
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 3933
+        width: 591
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036219814f231443e8d5a97be234b5b5
+      internalID: 716936156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_4
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 3933
+        width: 591
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818c0282ee6d41d4948951b11bef80e
+      internalID: 433563015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_5
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 3933
+        width: 591
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10e1d34a83848f69727760ce2656b8
+      internalID: 1355992575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_6
+      rect:
+        serializedVersion: 2
+        x: 6166
+        y: 3950
+        width: 574
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2d8f6a8499d45648f7cef8f7d620cf
+      internalID: -618354095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_7
+      rect:
+        serializedVersion: 2
+        x: 7124
+        y: 3950
+        width: 574
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b5c4d79e704682aee8561621eae2f
+      internalID: -1635261926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_8
+      rect:
+        serializedVersion: 2
+        x: 8066
+        y: 3896
+        width: 580
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c063f584d046e19c1fd27da0e3aff
+      internalID: 238791662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3427
+        width: 620
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f51da73283c410aa2ef73dee11e1c3
+      internalID: 490252443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3427
+        width: 619
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa379fb473db6483bb4f1ad60646226e
+      internalID: -991543870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_11
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3427
+        width: 616
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331946a8178cf454795f4b7c51da3dc8
+      internalID: 1355158768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_12
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 3469
+        width: 577
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309880cc76d449078be41fb054b8cff
+      internalID: -1093182480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_13
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 3469
+        width: 576
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42520837cd9b94bfb9f6ae583c2f1939
+      internalID: 1550459924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_14
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 3469
+        width: 574
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd1fda44db1446d8e996056e1652b2
+      internalID: 554177399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_15
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 3460
+        width: 561
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9376cb7ba7d8a44ee9a5b4173322fa23
+      internalID: 1180660890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_16
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 3460
+        width: 562
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec6e522ba1174e9fba413bb86790488
+      internalID: -404751184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_17
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 3460
+        width: 561
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4456e3745e04e49e0ac7d66969e68bf2
+      internalID: -936482481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2941
+        width: 602
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e5504b7ed0748c1b4368fe7929a4fd
+      internalID: 11229536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_19
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2941
+        width: 602
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb6e6cdd9214471b45a87e8b4ed5bc
+      internalID: -1999503116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_20
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2941
+        width: 599
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b9b2c6f3b6400fb62a6eaa95b4e5b
+      internalID: -482587890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_21
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2979
+        width: 566
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b182770a0c26425cb6f988d15b26065
+      internalID: 1152838838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_22
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2979
+        width: 566
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79380af3ade487baff58a08f33cf76
+      internalID: 1925220566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_23
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 2979
+        width: 566
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b064802f434bac8ba5a6d0cf98c7d
+      internalID: 416112612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_24
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 2971
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53981cd3851cf45c4a7ce55de75ace04
+      internalID: 1582194499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_25
+      rect:
+        serializedVersion: 2
+        x: 7133
+        y: 2971
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27b88b848aeb4cedaf0bef159c0bbee
+      internalID: -51642997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_26
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 2971
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9a805d974843d8b7c59edb99a9d85
+      internalID: 1960897313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2439
+        width: 612
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d9100f05fb440e595d40701eaff541
+      internalID: 826770846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2439
+        width: 615
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73820e2814aec4da192ce170aa484ae5
+      internalID: 1717621213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_29
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2439
+        width: 616
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de90e4fe5ed84052b598adb09e22a82
+      internalID: 1042650906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_30
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 2451
+        width: 595
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f179bf96244f4b6586b8029a19315d4
+      internalID: -95373731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_31
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 2451
+        width: 594
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a32af3793f4e308b10ee656ec7f88
+      internalID: -461933011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_32
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 2451
+        width: 594
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58ccab54319f4d9babcbc2c1d653883
+      internalID: 1617737552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_33
+      rect:
+        serializedVersion: 2
+        x: 6162
+        y: 2451
+        width: 578
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0533b9bce444098cb9db9ecd07a1b
+      internalID: 623799416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_34
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 2451
+        width: 581
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd585ffac6f5e48a686ce0d7ca3b5434
+      internalID: 290535729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_35
+      rect:
+        serializedVersion: 2
+        x: 8058
+        y: 2451
+        width: 582
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae396a450802454f9d39cc1aa8bfc91
+      internalID: 961164440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1970
+        width: 599
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e31580d849e74844aa8c0436d7b948e
+      internalID: -1294068991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_37
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1970
+        width: 599
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83b7549d687342e68daa0c7bc9e5bc8
+      internalID: 326392283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_38
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1970
+        width: 599
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02155b9e9f95b4ee08f21e6ce17f93fe
+      internalID: -1419225249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_39
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 2016
+        width: 581
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b5aeb4872046c7b81b063953e7afb
+      internalID: 63132529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_40
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 2016
+        width: 582
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1087fac477c284ea4ad0c57858fa42e4
+      internalID: -1911314277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_41
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 2016
+        width: 582
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe9c4059669410894e4a9d5e379fcf
+      internalID: 1580637926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_42
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 1961
+        width: 565
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc03a76002d746e2bfd5f7c6173da7f
+      internalID: -1042211789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_43
+      rect:
+        serializedVersion: 2
+        x: 7128
+        y: 1961
+        width: 566
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeaa8b82d6614040b398b7b03412ea8
+      internalID: -1915997771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_44
+      rect:
+        serializedVersion: 2
+        x: 8066
+        y: 1961
+        width: 565
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810afc0a1a6e44f1a78ca5ea1df7c9b
+      internalID: -352278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1484
+        width: 593
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9008e6723af141c8a73f255b900242d
+      internalID: 246694234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_46
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1484
+        width: 591
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a083785b335f4a81b59e14d4c7b8203
+      internalID: 1558080515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_47
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1484
+        width: 591
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a13cde9d60495385e27379ed08a60
+      internalID: -2044540853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_48
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1522
+        width: 566
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c82ded69faa457199e9cd70fd6fed6
+      internalID: -627435687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_49
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1522
+        width: 566
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81dfb36dfad14f3b957aee92735ca02
+      internalID: -9868148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_50
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 1522
+        width: 566
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2344284f6a546bd814390e1243a6e6
+      internalID: 807769446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_51
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 1472
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6571972c97a4442abbcb81320ad291d
+      internalID: -987823571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_52
+      rect:
+        serializedVersion: 2
+        x: 7133
+        y: 1472
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4b94276c74e4ff483738f16541e2e9
+      internalID: 18233023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_53
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 1472
+        width: 553
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e9316023fc1400a9df5e45bf0ed6cd
+      internalID: -1746458373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 982
+        width: 623
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74cf4ea0222a44d4958222f9eb0cc29
+      internalID: -1851053023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_55
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 982
+        width: 612
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae096bb0476141678481993df090899
+      internalID: -513725217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_56
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 982
+        width: 615
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3959cc1f8edc484dab2e46bd2cac2bb
+      internalID: -1530178688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_57
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 990
+        width: 574
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f29ae54762c44b69a292b780c17662
+      internalID: 1637558965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_58
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 990
+        width: 574
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ceecf1d1894dd1b0a230aa13c820f
+      internalID: -396902432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_59
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 990
+        width: 574
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2154da007e6943b297559be13e56328
+      internalID: -35393155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_60
+      rect:
+        serializedVersion: 2
+        x: 6149
+        y: 994
+        width: 604
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0d350443c9426ca5d5d99613ec310
+      internalID: -340861080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_61
+      rect:
+        serializedVersion: 2
+        x: 7107
+        y: 994
+        width: 604
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3737b474e96f4d0aa1951129f2ddda6
+      internalID: -804542712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_62
+      rect:
+        serializedVersion: 2
+        x: 8049
+        y: 994
+        width: 597
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820b8f2779c04252abaad30a242a5e5
+      internalID: -488447444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 513
+        width: 595
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c86ce817436473399fc58b9984cdbc
+      internalID: -312902059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_64
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 513
+        width: 595
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a773c24e8d40609727dbd9c88172f
+      internalID: -810073990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_65
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 513
+        width: 597
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb23615d71dd4a939e580a0492769b6
+      internalID: 1761486389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_66
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 534
+        width: 561
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21352a172f80243198a014909c0aaa87
+      internalID: 371461044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_67
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 534
+        width: 561
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b82172943164763ab678a6923f625c
+      internalID: -1552190531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_68
+      rect:
+        serializedVersion: 2
+        x: 4732
+        y: 534
+        width: 563
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b853c9fd09d4246169eeea2c85f62d3c
+      internalID: 686738969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_69
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 492
+        width: 587
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16829eaca1554a30a6c74b5c18056ef
+      internalID: 1480467735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_70
+      rect:
+        serializedVersion: 2
+        x: 7116
+        y: 492
+        width: 586
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f4d32f9ead4a719833aba7862e74f
+      internalID: -1262623101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_71
+      rect:
+        serializedVersion: 2
+        x: 8057
+        y: 492
+        width: 587
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825607db04634b45b446a29a61eae64
+      internalID: -1729109524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 586
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec213679c6d64ff88e7b5a1c0d9b859
+      internalID: -1069871836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_73
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 27
+        width: 582
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e6b0da05eb4a97b613bec4106be5a
+      internalID: -1192706993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_74
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 27
+        width: 583
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8d29ec2b2794affbb7f086e04b01f6
+      internalID: 1100901276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_75
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 23
+        width: 549
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9850c6e24d846088622d24b62c9bd2
+      internalID: -1799233915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_76
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 23
+        width: 549
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b6e6f380274ee38346a82088dced6
+      internalID: -1605808639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_77
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 23
+        width: 549
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a30a0f22204cdebcca0863dedbac3
+      internalID: 1797241565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_78
+      rect:
+        serializedVersion: 2
+        x: 6162
+        y: 0
+        width: 578
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1f13a046b94ad999fd2357f33043c
+      internalID: -489030408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_79
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 0
+        width: 578
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85475a430c35415989cd1d059b42c24
+      internalID: 452055245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: number coloue 2_80
+      rect:
+        serializedVersion: 2
+        x: 8061
+        y: 0
+        width: 578
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f194e66a8d4e299afabf453b03451
+      internalID: 1414665498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      number coloue 2_0: 1468112032
+      number coloue 2_1: 477703500
+      number coloue 2_10: -991543870
+      number coloue 2_11: 1355158768
+      number coloue 2_12: -1093182480
+      number coloue 2_13: 1550459924
+      number coloue 2_14: 554177399
+      number coloue 2_15: 1180660890
+      number coloue 2_16: -404751184
+      number coloue 2_17: -936482481
+      number coloue 2_18: 11229536
+      number coloue 2_19: -1999503116
+      number coloue 2_2: -1171544938
+      number coloue 2_20: -482587890
+      number coloue 2_21: 1152838838
+      number coloue 2_22: 1925220566
+      number coloue 2_23: 416112612
+      number coloue 2_24: 1582194499
+      number coloue 2_25: -51642997
+      number coloue 2_26: 1960897313
+      number coloue 2_27: 826770846
+      number coloue 2_28: 1717621213
+      number coloue 2_29: 1042650906
+      number coloue 2_3: 716936156
+      number coloue 2_30: -95373731
+      number coloue 2_31: -461933011
+      number coloue 2_32: 1617737552
+      number coloue 2_33: 623799416
+      number coloue 2_34: 290535729
+      number coloue 2_35: 961164440
+      number coloue 2_36: -1294068991
+      number coloue 2_37: 326392283
+      number coloue 2_38: -1419225249
+      number coloue 2_39: 63132529
+      number coloue 2_4: 433563015
+      number coloue 2_40: -1911314277
+      number coloue 2_41: 1580637926
+      number coloue 2_42: -1042211789
+      number coloue 2_43: -1915997771
+      number coloue 2_44: -352278
+      number coloue 2_45: 246694234
+      number coloue 2_46: 1558080515
+      number coloue 2_47: -2044540853
+      number coloue 2_48: -627435687
+      number coloue 2_49: -9868148
+      number coloue 2_5: 1355992575
+      number coloue 2_50: 807769446
+      number coloue 2_51: -987823571
+      number coloue 2_52: 18233023
+      number coloue 2_53: -1746458373
+      number coloue 2_54: -1851053023
+      number coloue 2_55: -513725217
+      number coloue 2_56: -1530178688
+      number coloue 2_57: 1637558965
+      number coloue 2_58: -396902432
+      number coloue 2_59: -35393155
+      number coloue 2_6: -618354095
+      number coloue 2_60: -340861080
+      number coloue 2_61: -804542712
+      number coloue 2_62: -488447444
+      number coloue 2_63: -312902059
+      number coloue 2_64: -810073990
+      number coloue 2_65: 1761486389
+      number coloue 2_66: 371461044
+      number coloue 2_67: -1552190531
+      number coloue 2_68: 686738969
+      number coloue 2_69: 1480467735
+      number coloue 2_7: -1635261926
+      number coloue 2_70: -1262623101
+      number coloue 2_71: -1729109524
+      number coloue 2_72: -1069871836
+      number coloue 2_73: -1192706993
+      number coloue 2_74: 1100901276
+      number coloue 2_75: -1799233915
+      number coloue 2_76: -1605808639
+      number coloue 2_77: 1797241565
+      number coloue 2_78: -489030408
+      number coloue 2_79: 452055245
+      number coloue 2_8: 238791662
+      number coloue 2_80: 1414665498
+      number coloue 2_9: 490252443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
